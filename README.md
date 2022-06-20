@@ -10,6 +10,7 @@ When I found out about the _Nology 12 week bootcamp I jumped at the chance to ki
 - 🌱 I’m currently learning Python and C# through Udemy
 - 💬 Ask me about anything!
 - 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-Lyssa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lyssa-jean-corlett-5a3805204/)](https://www.linkedin.com/in/lyssa-jean-corlett-5a3805204/)
+- :open_file_folder: Check out my project portfolio here:  https://ebonwulf.github.io/portfolio/
 - ⚡ Fun facts: I love wolves, crafting, reading and learning new things.
 
 
