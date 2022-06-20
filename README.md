@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, my name is Lyssa and I'm a Junior Full-stack Software engineer.
 
 <!--
 **Ebonwulf/Ebonwulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
