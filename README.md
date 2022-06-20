@@ -1,5 +1,10 @@
 Hi, my name is Lyssa and I'm a Junior Full-stack Software engineer.
 
+My love of how things work is what lead me towards a career in tech.
+
+I have studied a few game creation courses on Udemy, which is where I discovered that I really enjoy coding and the problem solving that comes with it.
+
+When I found out about the _Nology 12 week bootcamp I jumped at the chance to kickstart my career!
 <!--
 **Ebonwulf/Ebonwulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
