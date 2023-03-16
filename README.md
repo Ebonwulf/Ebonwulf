@@ -38,3 +38,4 @@ When I found out about the _Nology 12 week bootcamp I jumped at the chance to ki
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ebonwulf&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebonwulf&hide=TeX&layout=compact)
+<a href="https://app.daily.dev/Ebonwolf"><img src="https://api.daily.dev/devcards/966213db4fc44630b51fac038d77d396.png?r=xzl" width="400" alt="Lyssa Jean Corlett's Dev Card"/></a>
